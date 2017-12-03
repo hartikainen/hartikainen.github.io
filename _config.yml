@@ -1,1 +1,28 @@
-theme: jekyll-theme-minimal
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://hartikainen.github.io
+author: Kristian Hartikainen
+
+baseurl: ""
+title: Kristian Hartikainen
+name: Kristian Hartikainen
+email: <first>.<last>@gmail.com
+email_full: mailto:kristian.hartikainen@gmail.com
+website: hartikainen.github.io
+website_full: http://hartikainen.github.io
+github: hartikainen
+google_maps: 'https://goo.gl/maps/5S5NXx6Sm8S2'
+address:
+  city: Seattle, WA
+  country: United States
+google_analytics: NOPE
+
+# needed for travis-ci build
+exclude: [vendor]
