@@ -1,0 +1,16 @@
+- degree: M.Sc. Computer Science
+  school: Aalto University
+  location: Espoo, Finland
+  graduation: 2016
+  gpa: 5.0/5.0
+  major: Software technology
+  minor: machine learning
+  thesis: Performance Analysis of Packet Processing Systems (with distinction)
+- degree: B.Sc. Computer Science
+  school: Aalto University
+  location: Espoo, Finland
+  graduation: 2015
+  gpa: ~
+  major: Software technology
+  minor: industrial management
+  thesis: Methods for Adaptive User Interfaces (with distinction)
