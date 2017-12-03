@@ -1,0 +1,6 @@
+.industry-experience {
+    ul {
+        list-style: circle inside;
+        margin-left: 30px;
+    }
+}
