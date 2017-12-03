@@ -1,0 +1,23 @@
+<section class="thirteen columns">
+  <h1>Voluteering</h1>
+  {% for job in site.data.volunteering %}
+    <article>
+      <header>
+        <h1>{{ job.role }}</h1>
+        <span>
+          <address>{{ job.organization }}</address>
+          <time>
+            {{ job.begin | date: "%b %Y" }}
+            -
+            {{ job.end | date: "%b %Y" | default: "present" }}
+          </time>
+        </span>
+      </header>
+      <!-- <ul> -->
+      <!--   {% for sentence in job.info %} -->
+      <!--     <li>{{ sentence }}</li> -->
+      <!--   {% endfor %} -->
+      <!-- </ul> -->
+    </article>
+  {% endfor %}
+</section>
