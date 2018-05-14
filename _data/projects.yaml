@@ -2,9 +2,13 @@
   organization: International Day for Failure
   begin: 2012-07-01
   end: 2012-10-01
-  info: ~
+  info:
+    - Day for Failure was launched in Finland in 2010 to change the culture around failure. It reached over a million people in Finland, and brought together tens of well-known figures to promote the understanding of failure as learning experience.
+    - I built the website, contacted partners, and organized the promotion of the campaign.
 - role: Software Engineer
   organization: Jiiri
   begin: 2012-06-01
   end: 2012-09-01
-  info: ~
+  info:
+    - Co-founded a "company" as a summer project with a bunch of undergraduate friends.
+    - Full-stack implementation of a simple web application.

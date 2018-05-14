@@ -1,18 +1,25 @@
 - role: Board Member, Volunteer
   organization: Aalto Entrepreneur Society
-  info: ~
   begin: Jan 2012
   end: Dec 2013
+  info:
+    - "Aaltoes Entrepreneurship Society is one of the largest entrepreneurship communities in Europe, ran by students."
+    - "We organized several keynotes, workshops, other events, and ran programs to introduce the Silicon Valley's entrepreneurial spirit to Finnish students, and to inspire them to start own companies."
 - role: Volunteer
   organization: Startup Life
   begin: Sep 2012
   end: May 2013
-  info: ~
+  info:
+    - "Startup Life is a non-profit internship program for the most talented people in Finland who want to unleash their full potential."
+    - "I helped to build the Startup Life website and the intern database for the companies."
+    - "Spent five weeks in Silicon Valley and Austin, meeting with the companies and pitching the program them. In summer 2013, I interned at Statwing through the Startup Life."
 - role: Volunteer
   organization: Slush
   begin: Sep 2012
   end: Nov 2012
-  info: ~
+  info:
+    - "In 2012, Slush was small, 1500 attendee startup conference in Finland. Today, Slush is the biggest startup conference in Europe, with almost 20k attendees."
+    - "Before the event, I helped with the technical tasks, such as building the Slush website, marketing, etc. During the event, I helped with the running tasks, such as guiding speakers to right places and updating our website."
 - role: Main Organizer
   organization: International Day for Failure
   begin: Jul 2012

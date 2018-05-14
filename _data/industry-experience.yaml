@@ -2,19 +2,30 @@
   company: Qualtrics, LLC.
   begin: 2016-10-01
   end: ~
-  info: ~
+  info:
+    - "Qualtrics acquired Statwing (see below) in May 2016."
+    - "I drove the Statwing integration efforts to Qualtrics platform and currently lead the efforts of breaking Statwing into a batch analysis api usable by the other Qualtrics services and products."
+    - "I'm leading the technical parts of new predictive service project that will enable customers to automatically build machine learning models based on their survey data."
+    - "Q4/2016: Rockstar rating (top 1% per level?)."
+    - "Q1/2017: Served in semi-annual technical promotion committee."
 - title: Software Engineer
   company: Statwing, Inc.
   begin: 2016-03-01
   end: 2016-05-01
-  info: ~
+  info:
+    - "I implemented and maintained features (across full stack) of a statistical analysis SaaS."
+    - "Selected projects: Time series analyses, the full pipeline from ambiguous user input to interactive visualization and analysis; Native Excel chart exports; Checkbox variable creation, formula representation for grouping categorical variables."
 - title: Data Scientist/Software Engineer
   company: Wolt Enterprises Oy
   begin: 2016-01-01
   end: 2016-04-01
-  info: ~
+  info:
+    - "Designed and implemented Wolt's first extract-transform-load data warehouse pipeline."
+    - "Designed and mentored my colleague on the implementation of a microservice for predicting the restaurants' food preparation times."
 - title: Software Engineer
   company: Statwing, Inc.
   begin: 2013-06-01
   end: 2014-09-01
-  info: ~
+  info:
+    - "I implemented and maintained features (across full stack) of a statistical analysis SaaS."
+    - "Selected projects: Time series analyses, the full pipeline from ambiguous user input to interactive visualization and analysis; Native Excel chart exports; Checkbox variable creation, formula representation for grouping categorical variables."
