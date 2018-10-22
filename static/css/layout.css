@@ -54,6 +54,10 @@ header > h1 {
     color: rgb(48, 48, 48);
 }
 
+.sidebar a:hover {
+    color: #27A822;
+}
+
 .container > header p, .container > header address {
     margin-bottom: 20px;
 }
