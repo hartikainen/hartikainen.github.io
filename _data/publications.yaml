@@ -1,7 +1,5 @@
-- hanhirova-hartikainen-vuorio:
-  author: J. Hanhirova and K. Hartikainen and R. Vuorio
-  title: Resource Networks in Simulation of Heterogeneous Computing Systems
-  year: 2016
-  addendum: Abstract submitted on 10/15/2016
-  address: Espoo, Finland
-  institution: Aalto University
+- haarnoja2018latent:
+  title: Latent Space Policies for Hierarchical Reinforcement Learning
+  author: Haarnoja, Tuomas and Hartikainen, Kristian and Abbeel, Pieter and Levine, Sergey
+  journal: International Conference on Machine Learning (ICML)
+  year: 2018
