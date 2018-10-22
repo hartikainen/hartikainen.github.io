@@ -17,20 +17,9 @@
 - title: Research Assistant
   company: Embedded Systems Group, Aalto University.
   supervisor: Vesa Hirvisalo, Heikki Saikkonen.
-  begin: 2016-05-01
+  begin: 2015-04-01
   end: 2016-07-01
   info:
-    - "Combined my Master's thesis work on stream processing with machine learning."
-    - "We investigated the possibilities of using deep neural networks in an industrial scale real-time machine learning system."
-    - "I trained convolutional neural networks for audio event detection task to understand the tradeoffs between inference performance and classification accuracy."
-
-- title: Research Assistant
-  company: Embedded Systems Group, Aalto University
-  begin: 2015-04-01
-  end: 2015-12-01
-  info:
-    - "Research and Master's thesis work on simulation and analysis of stream processing systems."
-    - "I extended an in-house discrete event simulator to support customized scheduling and load balancing algorithms."
-    - "I built simulation models of modern network processing units on dynamic data flows."
-    - "I investigated the possibilities of using deep neural networks in a real-time sound event detection task. Delivered a design plan for real-time audio event recognition experiment
-pipeline."
+    - Research and Master’s thesis work on performance analysis of stream processing systems.
+    - I extended an in-house discrete event simulator to support customized scheduling and load balancing algorithms.
+    - I built simulation models of modern network processing units on dynamic data flows.
