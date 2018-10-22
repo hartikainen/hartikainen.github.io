@@ -1,6 +1,6 @@
-<section class="thirteen columns">
-    <h1>Publications</h1>
-    <article>
-      <p>J. Hanhirova, K. Hartikainen, R. Vuorio. Resource Networks in Simulation of Heterogeneous Computing Systems. Abstract submitted on 10/15/2016 for: Journal of Signal Processing Systems by Springer.</p>
-    </article>
+<section class="thirteen columns publications">
+  <h1>Publications</h1>
+  {% for publication in site.data.publications %}
+    <p>{{ publication.author }}. <em>{{ publication.title }}</em>. {{ publication.journal }}. {{ publication.year }}</p>
+  {% endfor %}
 </section>

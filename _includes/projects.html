@@ -6,11 +6,6 @@
         <h1>{{ project.role }}</h1>
         <span>
           <address>{{ project.organization }}</address>
-          <time>
-            {{ project.begin | date: "%b %Y" }}
-            -
-            {{ project.end | date: "%b %Y" | default: "present" }}
-          </time>
         </span>
       </header>
       <!-- <ul> -->

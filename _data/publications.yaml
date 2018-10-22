@@ -1,5 +1,5 @@
 - haarnoja2018latent:
   title: Latent Space Policies for Hierarchical Reinforcement Learning
-  author: Haarnoja, Tuomas and Hartikainen, Kristian and Abbeel, Pieter and Levine, Sergey
+  author: Hartikainen, Kristian* and Haarnoja, Tuomas* and Abbeel, Pieter and Levine, Sergey
   journal: International Conference on Machine Learning (ICML)
   year: 2018

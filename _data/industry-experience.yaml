@@ -1,13 +1,13 @@
 - title: Software Engineer 2
   company: Qualtrics, LLC.
   begin: 2016-10-01
-  end: ~
+  end: 2018-05-31
   info:
-    - "Qualtrics acquired Statwing (see below) in May 2016."
-    - "I drove the Statwing integration efforts to Qualtrics platform and currently lead the efforts of breaking Statwing into a batch analysis api usable by the other Qualtrics services and products."
-    - "I'm leading the technical parts of new predictive service project that will enable customers to automatically build machine learning models based on their survey data."
-    - "Q4/2016: Rockstar rating (top 1% per level?)."
-    - "Q1/2017: Served in semi-annual technical promotion committee."
+    - "I joined Qualtrics through Statwing acquisition (see below)."
+    - "I drove the Statwing integration efforts into Qualtrics platform and started the efforts of breaking Statwing into a batch analysis api usable by the other Qualtrics services."
+    - "I was the technical lead of a new Predict iQ product."
+    - "Conducted 50+ technical interviews."
+    - "Q4/2016: Rockstar rating (top 1% per level). Q2/2018: Exceptional rating (top 5% per level). Q1/2017: Served on semi-annual technical promotion committee."
 - title: Software Engineer
   company: Statwing, Inc.
   begin: 2016-03-01
