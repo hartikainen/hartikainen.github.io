@@ -1,5 +1,17 @@
+- haarnoja2018sacapps:
+  title: Soft Actor-Critic Algorithms and Applications
+  author: Tuomas Haarnoja*, Aurick Zhou*, <em>Kristian Hartikainen*</em>, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar, Henry Zhu, Abhishek Gupta, Pieter Abbeel, and Sergey Levine
+  journal: arXiv preprint arXiv:1812.05905
+  year: 2018
+  paper_url: https://arxiv.org/abs/1812.05905
+  video_url: https://sites.google.com/view/sac-and-applications
+  code_url: https://github.com/rail-berkeley/softlearning
+
 - haarnoja2018latent:
   title: Latent Space Policies for Hierarchical Reinforcement Learning
-  author: Haarnoja, Tuomas* and Hartikainen, Kristian* and Abbeel, Pieter and Levine, Sergey
+  author: Tuomas Haarnoja*, <em>Kristian Hartikainen*</em>, Pieter Abbeel, and Sergey Levine
   journal: International Conference on Machine Learning (ICML)
   year: 2018
+  paper_url: https://arxiv.org/abs/1804.02808
+  video_url: https://sites.google.com/view/latent-space-deep-rl
+  code_url: https://github.com/haarnoja/sac

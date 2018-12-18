@@ -1,6 +1,11 @@
 <section class="thirteen columns publications">
   <h1>Publications</h1>
+  <ul>
   {% for publication in site.data.publications %}
-    <p>{{ publication.author }}. <em>{{ publication.title }}</em>. {{ publication.journal }}. {{ publication.year }}</p>
+    <li>
+      <p>{{ publication.author }}. <em>{{ publication.title }}</em>. {{ publication.journal }}. {{ publication.year }}.</p>
+      <a href={{ publication.paper_url }}>paper</a> | <a href={{ publication.video_url }}>videos</a> | <a href={{ publication.code_url }}>code</a>
+    </li>
   {% endfor %}
+  </ul>
 </section>
