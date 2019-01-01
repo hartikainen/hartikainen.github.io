@@ -1,11 +1,11 @@
-<section class="thirteen columns">
+<section class="thirteen columns projects">
   <h1>Projects</h1>
   {% for project in site.data.projects %}
     <article>
       <header>
-        <h1>{{ project.role }}</h1>
+        <h1>{{ project.name }}</h1>
         <span>
-          <address>{{ project.organization }}</address>
+          <address>{{ project.url }}</address>
         </span>
       </header>
       <!-- <ul> -->

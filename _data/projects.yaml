@@ -1,5 +1,11 @@
-- role: ~
-  organization: "<a href='https://github.com/haarnoja/sac'>haarnoja/sac</a>"
+- name: "Softlearning"
+  info: "A reinforcement learning framework for training maximum entropy policies in continuous domains."
+  url: "<a href='https://github.com/rail-berkeley/softlearning'>https://github.com/rail-berkeley/softlearning</a>"
+  begin: ~
+  end: ~
+- name: "Soft Actor-Critic"
+  info: "Official implementation of the Soft-Actor Critic algorithm."
+  url: "<a href='https://github.com/haarnoja/sac'>https://github.com/haarnoja/sac</a>"
   begin: ~
   end: ~
 # - role: Main Organizer
