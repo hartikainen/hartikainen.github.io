@@ -1,3 +1,12 @@
+- haarnoja2018latent:
+  title: Latent Space Policies for Hierarchical Reinforcement Learning
+  author: Tuomas Haarnoja*, <em>Kristian Hartikainen*</em>, Pieter Abbeel, and Sergey Levine
+  journal: International Conference on Machine Learning (ICML)
+  year: 2018
+  paper_url: https://arxiv.org/abs/1804.02808
+  video_url: https://sites.google.com/view/latent-space-deep-rl
+  code_url: https://github.com/haarnoja/sac
+
 - haarnoja2018sacapps:
   title: Soft Actor-Critic Algorithms and Applications
   author: Tuomas Haarnoja*, Aurick Zhou*, <em>Kristian Hartikainen*</em>, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar, Henry Zhu, Abhishek Gupta, Pieter Abbeel, and Sergey Levine
@@ -7,11 +16,11 @@
   video_url: https://sites.google.com/view/sac-and-applications
   code_url: https://github.com/rail-berkeley/softlearning
 
-- haarnoja2018latent:
-  title: Latent Space Policies for Hierarchical Reinforcement Learning
-  author: Tuomas Haarnoja*, <em>Kristian Hartikainen*</em>, Pieter Abbeel, and Sergey Levine
-  journal: International Conference on Machine Learning (ICML)
-  year: 2018
-  paper_url: https://arxiv.org/abs/1804.02808
-  video_url: https://sites.google.com/view/latent-space-deep-rl
-  code_url: https://github.com/haarnoja/sac
+- singh2019end:
+  title: End-to-End Robotic Reinforcement Learning without Reward Engineering
+  author: Avi Singh, Larry Yang, <em>Kristian Hartikainen</em>, Chelsea Finn, and Sergey Levine
+  journal: arXiv preprint arXiv:1904.07854
+  year: 2019
+  paper_url: https://arxiv.org/abs/1904.07854
+  video_url: https://sites.google.com/view/reward-learning-rl/home
+  code_url: https://github.com/avisingh599/reward-learning-rl
