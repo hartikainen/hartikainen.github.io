@@ -1,11 +1,31 @@
-- name: "Softlearning"
+- role: "Author/Maintainer"
+  name: "Softlearning"
   info: "A reinforcement learning framework for training maximum entropy policies in continuous domains."
   url: "<a href='https://github.com/rail-berkeley/softlearning'>https://github.com/rail-berkeley/softlearning</a>"
   begin: ~
   end: ~
-- name: "Soft Actor-Critic"
+- role: "Author/Maintainer"
+  name: "Soft Actor-Critic"
   info: "Official implementation of the Soft-Actor Critic algorithm."
   url: "<a href='https://github.com/haarnoja/sac'>https://github.com/haarnoja/sac</a>"
+  begin: ~
+  end: ~
+- role: "Committer"
+  name: "Ray"
+  info: "A system for parallel and distributed Python that unifies the ML ecosystem."
+  url: "<a href='https://github.com/ray-project/ray'>https://github.com/ray-project/ray</a>"
+  begin: ~
+  end: ~
+- role: "Contributor"
+  name: "Tensorflow Probability"
+  info: "A library for probabilistic reasoning and statistical analysis."
+  url: "<a href='https://github.com/tensorflow/probability'>https://github.com/tensorflow/probability</a>"
+  begin: ~
+  end: ~
+- role: "Contributor"
+  name: "OpenAI Gym"
+  info: "A toolkit for developing and comparing reinforcement learning algorithms."
+  url: "<a href='https://github.com/openai/gym'>https://github.com/openai/gym</a>"
   begin: ~
   end: ~
 # - role: Main Organizer

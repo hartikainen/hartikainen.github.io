@@ -14,13 +14,13 @@ body {
 }
 
 a {
-    text-decoration: none;
+    /* text-decoration: none; */
     color: #27a822;
     /*background-color: rgba(39, 168, 34, 0.06);*/
 }
 
 a:visited {
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
 a:hover, a:focus {
@@ -52,6 +52,7 @@ header > h1 {
 
 .sidebar a {
     color: rgb(48, 48, 48);
+    text-decoration: none;
 }
 
 .sidebar a:hover {
@@ -102,9 +103,9 @@ article > header > span {
     font-size: 100%;
 }
 
-article > header > span a {
-    color: inherit;
-}
+/* article > header > span a { */
+/*     color: inherit; */
+/* } */
 
 article > header address {
     display: inline;
@@ -115,6 +116,11 @@ article > header address + time {
 }
 
 article > header address + time::before {
+    content: '—';
+    margin-right: 6px;
+}
+
+article.open-source > header span.project-url::before {
     content: '—';
     margin-right: 6px;
 }
