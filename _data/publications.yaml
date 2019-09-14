@@ -28,7 +28,7 @@
 - singh2019end:
   title: End-to-End Robotic Reinforcement Learning without Reward Engineering
   author: Avi Singh, Larry Yang, <em>Kristian Hartikainen</em>, Chelsea Finn, and Sergey Levine
-  journal: arXiv preprint arXiv:1904.07854
+  journal: "Robotics: Science and Systems (RSS)"
   year: 2019
   paper_url: https://arxiv.org/abs/1904.07854
   video_url: https://sites.google.com/view/reward-learning-rl/home
