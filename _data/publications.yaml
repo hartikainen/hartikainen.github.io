@@ -25,6 +25,15 @@
   video_url: https://sites.google.com/view/sac-and-applications
   code_url: https://github.com/rail-berkeley/softlearning
 
+- ahn2019robel:
+  title: "ROBEL: Robotics Benchmarks for Learning with Low-Cost Robots"
+  author: Michael Ahn, Henry Zhu, Kristian Hartikainen, Hugo Ponte, Abhishek Gupta, Sergey Levine, Vikash Kumar
+  journal: 3rd Conference on Robot Learning (CoRL)
+  year: 2019
+  paper_url: https://arxiv.org/abs/1909.11639
+  video_url: https://sites.google.com/view/roboticsbenchmarks/
+  code_url: https://github.com/google-research/robel/
+
 - singh2019end:
   title: End-to-End Robotic Reinforcement Learning without Reward Engineering
   author: Avi Singh, Larry Yang, Kristian Hartikainen, Chelsea Finn, and Sergey Levine
