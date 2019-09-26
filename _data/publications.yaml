@@ -1,6 +1,6 @@
 - hartikainen2019dynamical:
   title: Dynamical Distance Learning for Unsupervised and Semi-Supervised Skill Discovery
-  author: <em>Kristian Hartikainen</em>, Xinyang Geng, Tuomas Haarnoja* and Sergey Levine*
+  author: Kristian Hartikainen, Xinyang Geng, Tuomas Haarnoja*, and Sergey Levine*
   journal: arXiv preprint arXiv:1907.08225
   year: 2019
   paper_url: https://arxiv.org/abs/1907.08225
@@ -9,7 +9,7 @@
 
 - haarnoja2018latent:
   title: Latent Space Policies for Hierarchical Reinforcement Learning
-  author: Tuomas Haarnoja*, <em>Kristian Hartikainen*</em>, Pieter Abbeel, and Sergey Levine
+  author: Tuomas Haarnoja*, Kristian Hartikainen*, Pieter Abbeel, and Sergey Levine
   journal: International Conference on Machine Learning (ICML)
   year: 2018
   paper_url: https://arxiv.org/abs/1804.02808
@@ -18,7 +18,7 @@
 
 - haarnoja2018sacapps:
   title: Soft Actor-Critic Algorithms and Applications
-  author: Tuomas Haarnoja*, Aurick Zhou*, <em>Kristian Hartikainen*</em>, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar, Henry Zhu, Abhishek Gupta, Pieter Abbeel, and Sergey Levine
+  author: Tuomas Haarnoja*, Aurick Zhou*, Kristian Hartikainen*, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar, Henry Zhu, Abhishek Gupta, Pieter Abbeel, and Sergey Levine
   journal: arXiv preprint arXiv:1812.05905
   year: 2018
   paper_url: https://arxiv.org/abs/1812.05905
@@ -27,7 +27,7 @@
 
 - singh2019end:
   title: End-to-End Robotic Reinforcement Learning without Reward Engineering
-  author: Avi Singh, Larry Yang, <em>Kristian Hartikainen</em>, Chelsea Finn, and Sergey Levine
+  author: Avi Singh, Larry Yang, Kristian Hartikainen, Chelsea Finn, and Sergey Levine
   journal: "Robotics: Science and Systems (RSS)"
   year: 2019
   paper_url: https://arxiv.org/abs/1904.07854
