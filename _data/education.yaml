@@ -1,14 +1,20 @@
-- degree: M.Sc. Computer Science
+- degree: Ph.D. in Computer Science
+  school: University of Oxford
+  location: United Kingdom
+  graduation: 2022 (expected)
+  major: Reinforcement learning
+  minor: robotics
+- degree: M.Sc. in Computer Science
   school: Aalto University
-  location: Espoo, Finland
+  location: Finland
   graduation: 2016
   gpa: 5.0/5.0
   major: Software technology
   minor: machine learning
   thesis: Performance Analysis of Packet Processing Systems (with distinction)
-- degree: B.Sc. Computer Science
+- degree: B.Sc. in Computer Science
   school: Aalto University
-  location: Espoo, Finland
+  location: Finland
   graduation: 2015
   gpa: ~
   major: Software technology
