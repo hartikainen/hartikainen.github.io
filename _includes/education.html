@@ -18,6 +18,9 @@
           , {{ education.minor }}
         {% endif %}
       </p>
+      {% if education.advisor != null %}
+        <p>Advisor: {{ education.advisor }}</p>
+      {% endif %}
       {% if education.thesis != null %}
         <p><em>Thesis: {{ education.thesis }}</em></p>
       {% endif %}
