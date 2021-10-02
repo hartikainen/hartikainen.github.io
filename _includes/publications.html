@@ -4,7 +4,7 @@
   {% for publication in site.data.publications %}
     <li>
       <p>{{ publication.author }}. <em>{{ publication.title }}</em>. {{ publication.journal }}. {{ publication.year }}.</p>
-      <a href={{ publication.paper_url }}>paper</a> | <a href={{ publication.video_url }}>videos</a> {% if publication.code_url != null %} | <a href={{ publication.code_url }}>code</a> {% endif %}
+      <a href={{ publication.paper_url }}>paper</a> {% if publication.video_url != null %} | <a href={{ publication.video_url }}>videos</a> {% endif  %} {% if publication.code_url != null %} | <a href={{ publication.code_url }}>code</a> {% endif %}
     </li>
   {% endfor %}
   </ul>
