@@ -1,3 +1,21 @@
+- fellows2021bayesian:
+  title: Bayesian Bellman Operators
+  author: Matthew Fellows, Kristian Hartikainen, and Shimon Whiteson
+  journal: Neural Information Processing Systems (NeurIPS)
+  year: 2021
+  paper_url: https://arxiv.org/abs/2106.05012
+  video_url: null
+  code_url: null
+
+- zintgraf2021exploration:
+  title: Exploration in Approximate Hyper-State Space for Meta Reinforcement Learning
+  author: Luisa Zintgraf, Leo Feng, Cong Lu, Maximilian Igl, Kristian Hartikainen, Katja Hofmann, and Shimon Whiteson
+  journal: International Conference on Machine Learning (ICML)
+  year: 2021
+  paper_url: http://proceedings.mlr.press/v139/zintgraf21a/zintgraf21a.pdf
+  video_url: null
+  code_url: https://github.com/lmzintgraf/hyperx
+
 - hartikainen2020dynamical:
   title: Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery
   author: Kristian Hartikainen, Xinyang Geng, Tuomas Haarnoja*, and Sergey Levine*
