@@ -12,7 +12,7 @@
   author: Luisa Zintgraf, Leo Feng, Cong Lu, Maximilian Igl, Kristian Hartikainen, Katja Hofmann, and Shimon Whiteson
   journal: International Conference on Machine Learning (ICML)
   year: 2021
-  paper_url: http://proceedings.mlr.press/v139/zintgraf21a/zintgraf21a.pdf
+  paper_url: https://arxiv.org/abs/2010.01062
   video_url: null
   code_url: https://github.com/lmzintgraf/hyperx
 
@@ -30,7 +30,7 @@
   author: Henry Zhu, Justin Yu, Abhishek Gupta, Dhruv Shah, Kristian Hartikainen, Avi Singh, Vikash Kumar, and Sergey Levine
   journal: 8th International Conference on Learning Representations (ICLR)
   year: 2020
-  paper_url: https://openreview.net/pdf?id=rJe2syrtvS
+  paper_url: https://arxiv.org/abs/2004.12570
   video_url: https://sites.google.com/view/realworld-rl
   code_url: null
 

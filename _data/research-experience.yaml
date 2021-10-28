@@ -1,3 +1,11 @@
+- title: Research Intern
+  company: DeepMind
+  supervisor: Nicolas Heess, Tuomas Haarnoja
+  begin: 2021-04-01
+  end: 2021-08-25
+  info:
+    - Reinforcement Learning for Legged Robotics
+
 - title: Research Staff
   company: Robotics and AI Lab, University of California, Berkeley
   supervisor: Sergey Levine, Tuomas Haarnoja
