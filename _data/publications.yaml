@@ -1,3 +1,12 @@
+- salter2022priors:
+  title: Priors, Hierarchy, and Information Asymmetry for Skill Transfer in Reinforcement Learning
+  author: Sasha Salter*, Kristian Hartikainen*, Walter Goodwin, Ingmar Posner
+  journal: arXiv preprint arXiv:2201.08115
+  year: 2022
+  paper_url: https://arxiv.org/abs/2201.08115
+  video_url: null
+  code_url: null
+
 - fellows2021bayesian:
   title: Bayesian Bellman Operators
   author: Matthew Fellows, Kristian Hartikainen, and Shimon Whiteson

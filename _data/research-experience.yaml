@@ -1,10 +1,26 @@
 - title: Research Intern
+  company: Google Brain
+  supervisor: Wenhao Yu, Tingnan Zhang
+  begin: 2022-09-12
+  end: 2022-12-16
+  info:
+    - Reinforcement Learning for Robot Locomotion
+
+- title: Research Intern
+  company: DeepMind
+  supervisor: Philemon Brakel, Steven Bohez
+  begin: 2022-05-09
+  end: 2022-09-02
+  info:
+    - Reinforcement Learning for Robot Locomotion
+
+- title: Research Intern
   company: DeepMind
   supervisor: Nicolas Heess, Tuomas Haarnoja
   begin: 2021-04-01
   end: 2021-08-25
   info:
-    - Reinforcement Learning for Legged Robotics
+    - Reinforcement Learning for Robot Locomotion
 
 - title: Research Staff
   company: Robotics and AI Lab, University of California, Berkeley
