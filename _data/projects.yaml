@@ -1,19 +1,19 @@
 - role: "Author/Maintainer"
   name: "Softlearning"
-  info: "A reinforcement learning framework for training maximum entropy policies in continuous domains."
+  info: "The official reference implementation of the Soft Actor-Critic algorithm."
   url: "<a href='https://github.com/rail-berkeley/softlearning'>https://github.com/rail-berkeley/softlearning</a>"
-  begin: ~
-  end: ~
-- role: "Author/Maintainer"
-  name: "Soft Actor-Critic"
-  info: "Official implementation of the Soft-Actor Critic algorithm."
-  url: "<a href='https://github.com/haarnoja/sac'>https://github.com/haarnoja/sac</a>"
   begin: ~
   end: ~
 - role: "Committer"
   name: "Ray"
-  info: "A system for parallel and distributed Python that unifies the ML ecosystem."
+  info: "General-purpose distributed computing framework for Python."
   url: "<a href='https://github.com/ray-project/ray'>https://github.com/ray-project/ray</a>"
+  begin: ~
+  end: ~
+- role: "Contributor"
+  name: "MuJoCo MPC"
+  info: "A real-time predictive control framework for MuJoCo."
+  url: "<a href='https://github.com/deepmind/mujoco_mpc'>https://github.com/deepmind/mujoco_mpc</a>"
   begin: ~
   end: ~
 - role: "Contributor"
