@@ -1,17 +1,12 @@
-about: "<em>I'll be on the job market soon so if you know of interesting opportunities and/or teams, let's chat!</em>
+about: "I am the Founding Engineer and Software Lead at <a href='https://ekarobotics.com/'>Eka Robotics</a>. I completed my Ph.D. at the University of Oxford, where I studied reinforcement learning and robotics. I also spent a couple of years as a research intern at DeepMind and Google Brain Robotics.
 
 <br/>
 <br/>
 
-I am a Ph.D. student at <a href='http://whirl.cs.ox.ac.uk'>Whiteson Research Lab (WhiRL)</a> at University of Oxford, advised by <a href='http://whirl.cs.ox.ac.uk/member/shimon-whiteson/'>Shimon Whiteson</a>. My research interests are in machine learning and robotics, and recently I've focused on model-free deep reinforcement learning for real-world robotic control. I also spend my time working on open-source projects like <a href='https://github.com/ray-project/ray'>Ray</a> and <a href='https://github.com/rail-berkeley/softlearning'>Softlearning</a>.
+Prior to my Ph.D., I did research at <a href='http://rail.eecs.berkeley.edu/'>Robotic AI and Learning Lab (RAIL)</a> at the University of California, Berkeley, where I worked with <a href='https://people.eecs.berkeley.edu/~svlevine/'>Sergey Levine</a> and <a href='https://scholar.google.com/citations?user=VT7peyEAAAAJ&hl=en'>Tuomas Haarnoja</a>. I also spent a few years as a software engineer in industry, building statistical analysis and machine learning products at <a href='https://www.ycombinator.com/companies/statwing/'>Statwing</a> and Qualtrics.
 
 <br/>
 <br/>
 
-Prior to joining WhiRL, I did research at <a href='http://rail.eecs.berkeley.edu/'>Robotic AI and Learning Lab (RAIL)</a> at the University of California, Berkeley, where I worked with <a href='https://people.eecs.berkeley.edu/~svlevine/'>Sergey Levine</a> and <a href='https://scholar.google.com/citations?user=VT7peyEAAAAJ&hl=en'>Tuomas Haarnoja</a>. I also spent a couple years as a software engineer in the industry, building statistical analysis and machine learning products at <a href='https://www.ycombinator.com/companies/statwing/'>Statwing</a> and Qualtrics.
-
-<br/>
-<br/>
-
-Most recently, I did a research internship at DeepMind and am currently interning at Google Brain Robotics.
+I like building software and contributing to open-source projects like <a href='https://github.com/google-deepmind/mujoco'>MuJoCo</a> and <a href='https://github.com/ray-project/ray'>Ray</a>.
 "
