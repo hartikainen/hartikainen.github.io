@@ -1,3 +1,9 @@
+- title: Founding Engineer / Head of Software
+  company: Eka Robotics
+  begin: 2024-08-01
+  end: Present
+  info:
+    - "I am the Founding Engineer and Head of Software at Eka Robotics."
 - title: Software Engineer 2
   company: Qualtrics, LLC.
   begin: 2016-10-01
@@ -10,8 +16,8 @@
     - "Q4/2016: Rockstar rating (top 1% per level). Q2/2018: Exceptional rating (top 5% per level). Q1/2017: Served on semi-annual technical promotion committee."
 - title: Software Engineer
   company: Statwing, Inc.
-  begin: 2016-03-01
-  end: 2016-05-01
+  begin: 2013-06-01
+  end: 2016-05-31
   info:
     - "I implemented and maintained features (across full stack) of a statistical analysis SaaS."
     - "Selected projects: Time series analyses, the full pipeline from ambiguous user input to interactive visualization and analysis; Native Excel chart exports; Checkbox variable creation, formula representation for grouping categorical variables."
@@ -22,10 +28,3 @@
   info:
     - "Designed and implemented Wolt's first extract-transform-load data warehouse pipeline."
     - "Designed and mentored my colleague on the implementation of a microservice for predicting the restaurants' food preparation times."
-- title: Software Engineer
-  company: Statwing, Inc.
-  begin: 2013-06-01
-  end: 2014-09-01
-  info:
-    - "I implemented and maintained features (across full stack) of a statistical analysis SaaS."
-    - "Selected projects: Time series analyses, the full pipeline from ambiguous user input to interactive visualization and analysis; Native Excel chart exports; Checkbox variable creation, formula representation for grouping categorical variables."
